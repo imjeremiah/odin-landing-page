@@ -1,0 +1,107 @@
+body {
+    font-family: Roboto;
+}
+
+.hero, .footer {
+    background: #1F2937;
+}
+
+.title {
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
+}
+
+ul {
+    list-style: none;
+}
+
+li, a {
+    text-decoration: none;
+}
+
+a, .text {
+    font-size: 18px;
+    color: #E5E7EB;
+    font-weight: 300;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: 700;
+}
+
+.img {
+    color: #F9FAF8;
+    background: gray;
+    font-weight: 300;
+}
+
+.info-text {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937;
+}
+
+button {
+    background: #3882F6;
+    color: #F9FAF8;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 20px;
+    font-weight: 700;
+}
+
+.box {
+    border: 3px solid #3882F6;
+    height: 100px;
+    width: 100px;
+    border-radius: 15px;
+}
+
+.subtext {
+    color: gray;
+    font-weight: 300;
+}
+
+.quote {
+    background: #E5E7EB;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-weight: 200;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.author {
+    color: #1F2937;
+    font-weight: 700;
+}
+
+.cta {
+    background: #3882F6;
+}
+
+.cta button {
+    border: 1.5px solid white;
+}
+
+.cta-title {
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+}
+
+.cta-text {
+    font-weight: 300;
+    color: #E5E7EB;
+}
+
+.footer {
+    color: #E5E7EB;
+    font-weight: 300;
+}
