@@ -72,6 +72,9 @@ button {
 
 .quote {
     background: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    padding: 100px 245px;
 }
 
 .quote-text {
@@ -84,6 +87,8 @@ button {
 .author {
     color: #1F2937;
     font-weight: 700;
+    align-self: end;
+    margin-right: 50px;
 }
 
 .cta {
